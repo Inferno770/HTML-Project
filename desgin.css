@@ -1,3 +1,25 @@
-body = {
-  background: black;
+body {
+    background: rgb(240, 0, 255);
+    background-image: url("344838-Omen-Valorant-Video-Game.jpg");
+    background-size: cover; 
 }
+
+.mainimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.navigation {
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    padding: 15px;
+    margin-top: 0px,
+}   
